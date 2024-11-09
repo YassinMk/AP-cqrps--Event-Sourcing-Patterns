@@ -54,7 +54,7 @@
 - AccountQueryHandler
 
 ## Project Structure
-src/
+`src/
 ├── main/
 │   ├── java/
 │   │   └── com/bank/
@@ -64,7 +64,7 @@ src/
 │   │       └── domain/
 │   └── resources/
 └── test/
-
+`
 # Monitoring
 
 ### Metrics
