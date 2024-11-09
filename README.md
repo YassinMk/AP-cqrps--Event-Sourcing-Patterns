@@ -53,20 +53,14 @@
 ### Query Handlers
 - AccountQueryHandler
 
-## Project Structure
-`src/
-├── main/
-│   ├── java/
-│   │   └── com/bank/
-│   │       ├── command/
-│   │       ├── query/
-│   │       ├── event/
-│   │       └── domain/
-│   └── resources/
-└── test/
-`
+
 # Monitoring
 
+### Metrics
+- Command processing time
+- Event handling latency
+- Query response time
+  
 ### Metrics
 - Command processing time
 - Event handling latency
